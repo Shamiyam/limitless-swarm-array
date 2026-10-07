@@ -63,7 +63,8 @@ function connectToHub() {
                         }
                     },
                     require: {
-                        builtin: ['fs', 'path', 'crypto', 'http', 'https', 'child_process']
+                        builtin: ['fs', 'path', 'crypto', 'http', 'https', 'child_process'],
+                        external: ['@xenova/transformers']
                     }
                 });
 
