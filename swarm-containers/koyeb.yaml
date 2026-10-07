@@ -1,0 +1,15 @@
+services:
+  - name: limitless-swarm-node
+    git:
+      repository: github.com/Shamiyam/limitless-swarm-array
+      branch: master
+    ports:
+      - port: 8080
+        protocol: http
+    env:
+      - key: HUB_URL
+        value: wss://ripe-turkeys-fall.loca.lt
+    instance_types:
+      - type: free
+    regions:
+      - was

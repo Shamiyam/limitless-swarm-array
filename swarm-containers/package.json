@@ -1,0 +1,13 @@
+{
+  "name": "limitless-swarm-node",
+  "version": "1.0.0",
+  "description": "Swarm Node for Edge Intelligence Server",
+  "main": "node.js",
+  "scripts": {
+    "start": "node node.js"
+  },
+  "dependencies": {
+    "ws": "^8.13.0",
+    "vm2": "^3.9.19"
+  }
+}

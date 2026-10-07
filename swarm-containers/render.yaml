@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: limitless-swarm-node
+    env: docker
+    plan: free
+    repo: https://github.com/Shamiyam/limitless-swarm-array # Replace with actual repo if different
+    branch: master
+    envVars:
+      - key: HUB_URL
+        value: wss://ripe-turkeys-fall.loca.lt
