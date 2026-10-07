@@ -1,0 +1,23 @@
+[
+  {
+    "id": "T-001",
+    "type": "OSINT",
+    "target": "Global TLS Certificate Mapping",
+    "status": "IN_PROGRESS",
+    "assignedAt": "2026-10-07T17:33:17.859Z"
+  },
+  {
+    "id": "T-002",
+    "type": "EDGE_AI",
+    "target": "Classify Darknet Topology Data",
+    "status": "IN_PROGRESS",
+    "assignedAt": "2026-10-07T17:33:17.860Z"
+  },
+  {
+    "id": "T-003",
+    "type": "COGNITIVE",
+    "target": "Simulate Quantum State Decoherence",
+    "status": "IN_PROGRESS",
+    "assignedAt": "2026-10-07T17:33:17.860Z"
+  }
+]
