@@ -30,7 +30,7 @@ jobs:
         const { Worker } = require('worker_threads');
         
         // This is the active backend tunnel to your local machine
-        const url = process.env.HUB_URL || 'wss://violet-lines-beam.loca.lt'; 
+        const url = process.env.HUB_URL || 'wss://tall-poems-begin.loca.lt'; 
         
         console.log(`[EXTERNAL-NODE-${process.env.MATRIX_NODE}] Acquiring uplink to Command Hub at ${url}...`);
         
