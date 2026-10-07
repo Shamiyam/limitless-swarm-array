@@ -11,11 +11,35 @@ function connectToHub() {
         console.log('[SWARM NODE] Uplink Established. Standing by for dynamic compilation payloads.');
     });
 
+    const SECRET_KEY = Buffer.from('a'.repeat(32)); // In production, this would be injected via env secrets
+
+    function sendSecure(ws, obj) {
+        const iv = crypto.randomBytes(12);
+        const cipher = crypto.createCipheriv('aes-256-gcm', SECRET_KEY, iv);
+        let encrypted = cipher.update(JSON.stringify(obj), 'utf8', 'hex');
+        encrypted += cipher.final('hex');
+        const authTag = cipher.getAuthTag().toString('hex');
+        ws.send(JSON.stringify({ encrypted, iv: iv.toString('hex'), authTag }));
+    }
+
     ws.on('message', async (data) => {
         let payload;
         try {
-            payload = JSON.parse(data);
+            // Decrypt incoming message
+            const parsed = JSON.parse(data);
+            if(parsed.encrypted) {
+                const iv = Buffer.from(parsed.iv, 'hex');
+                const authTag = Buffer.from(parsed.authTag, 'hex');
+                const decipher = crypto.createDecipheriv('aes-256-gcm', SECRET_KEY, iv);
+                decipher.setAuthTag(authTag);
+                let decrypted = decipher.update(parsed.encrypted, 'hex', 'utf8');
+                decrypted += decipher.final('utf8');
+                payload = JSON.parse(decrypted);
+            } else {
+                payload = parsed;
+            }
         } catch (e) {
+            console.error('[SWARM NODE] Decryption failed or malformed payload. Dropping packet.');
             return;
         }
 
@@ -28,11 +52,11 @@ function connectToHub() {
                     console: 'inherit',
                     sandbox: {
                         reportBack: (result) => {
-                            ws.send(JSON.stringify({
+                            sendSecure(ws, {
                                 type: 'NODE_RESULT',
                                 nodeId: process.env.RENDER_EXTERNAL_HOSTNAME || process.env.HOSTNAME || 'docker-node',
                                 result: result
-                            }));
+                            });
                         }
                     },
                     require: {
@@ -43,12 +67,12 @@ function connectToHub() {
                 vm.run(payload.code);
             } catch (err) {
                 console.error(`[SWARM NODE] Execution Error: ${err.message}`);
-                ws.send(JSON.stringify({
+                sendSecure(ws, {
                     type: 'NODE_RESULT',
                     nodeId: process.env.RENDER_EXTERNAL_HOSTNAME || process.env.HOSTNAME || 'docker-node',
                     status: 'ERROR',
                     message: err.message
-                }));
+                });
             }
         }
     });
