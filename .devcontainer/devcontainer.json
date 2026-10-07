@@ -1,0 +1,4 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:18",
+  "postStartCommand": "cd swarm-containers && npm install && nohup node node.js > node.log 2>&1 &"
+}
