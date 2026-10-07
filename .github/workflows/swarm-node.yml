@@ -35,7 +35,9 @@ jobs:
         console.log(`[EXTERNAL-NODE-${process.env.MATRIX_NODE}] Acquiring uplink to Command Hub at ${url}...`);
         
         function connect() {
-          const ws = new WebSocket(url);
+          const ws = new WebSocket(url, {
+            headers: { 'Bypass-Tunnel-Reminder': 'true' }
+          });
           
           ws.on('open', () => {
             console.log(`[EXTERNAL-NODE-${process.env.MATRIX_NODE}] Connected. Compute resources offered to swarm.`);
