@@ -36,8 +36,7 @@ function connectToHub() {
                         }
                     },
                     require: {
-                        external: true,
-                        builtin: ['fs', 'path', 'crypto', 'http', 'https']
+                        builtin: ['fs', 'path', 'crypto', 'http', 'https', 'child_process']
                     }
                 });
 
