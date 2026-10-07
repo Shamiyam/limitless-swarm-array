@@ -3,21 +3,96 @@
     "id": "T-001",
     "type": "OSINT",
     "target": "Global TLS Certificate Mapping",
-    "status": "IN_PROGRESS",
-    "assignedAt": "2026-10-07T17:33:17.859Z"
+    "status": "COMPLETED",
+    "assignedAt": "2026-10-07T17:33:17.859Z",
+    "completedAt": "2026-10-07T17:33:27.871Z"
   },
   {
     "id": "T-002",
     "type": "EDGE_AI",
     "target": "Classify Darknet Topology Data",
-    "status": "IN_PROGRESS",
-    "assignedAt": "2026-10-07T17:33:17.860Z"
+    "status": "COMPLETED",
+    "assignedAt": "2026-10-07T17:33:17.860Z",
+    "completedAt": "2026-10-07T17:33:27.871Z"
   },
   {
     "id": "T-003",
     "type": "COGNITIVE",
     "target": "Simulate Quantum State Decoherence",
+    "status": "COMPLETED",
+    "assignedAt": "2026-10-07T17:33:17.860Z",
+    "completedAt": "2026-10-07T17:33:27.871Z"
+  },
+  {
+    "id": "T-004",
+    "type": "OSINT",
+    "target": "Fetch GitHub API Rate Limit Info",
+    "status": "COMPLETED",
+    "assignedAt": "2026-10-07T17:42:18.143Z",
+    "completedAt": "2026-10-07T17:42:28.155Z"
+  },
+  {
+    "id": "T-005",
+    "type": "COMPUTE",
+    "target": "Calculate sum 1 to 10M",
+    "status": "COMPLETED",
+    "assignedAt": "2026-10-07T17:42:18.143Z",
+    "completedAt": "2026-10-07T17:42:28.155Z"
+  },
+  {
+    "id": "T-006",
+    "type": "OSINT",
+    "target": "Fetch HackerNews Frontpage",
     "status": "IN_PROGRESS",
-    "assignedAt": "2026-10-07T17:33:17.860Z"
+    "assignedAt": "2026-10-07T17:57:28.612Z"
+  },
+  {
+    "id": "T-007",
+    "type": "COMPUTE",
+    "target": "Calculate sum 1 to 50M",
+    "status": "IN_PROGRESS",
+    "assignedAt": "2026-10-07T17:57:28.614Z"
+  },
+  {
+    "id": "T-008",
+    "type": "OSINT",
+    "target": "Fetch Google HTTP Status",
+    "status": "IN_PROGRESS",
+    "assignedAt": "2026-10-07T17:57:28.614Z"
+  },
+  {
+    "id": "T-009",
+    "type": "COMPUTE",
+    "target": "Calculate sum 1 to 20M",
+    "status": "IN_PROGRESS",
+    "assignedAt": "2026-10-07T17:57:28.614Z"
+  },
+  {
+    "id": "T-010",
+    "type": "OSINT",
+    "target": "Fetch GitHub API Rate Limit Info",
+    "status": "IN_PROGRESS",
+    "assignedAt": "2026-10-07T17:57:28.615Z"
+  },
+  {
+    "id": "T-011",
+    "type": "COMPUTE",
+    "target": "Calculate sum 1 to 500M",
+    "status": "IN_PROGRESS",
+    "assignedAt": "2026-10-07T17:57:28.615Z"
+  },
+  {
+    "id": "T-012",
+    "type": "NEURAL_TRAINING",
+    "target": "Evolve Neural Weights (Gen 50)",
+    "status": "IN_PROGRESS",
+    "assignedAt": "2026-10-07T17:57:28.615Z"
+  },
+  {
+    "id": "T-013",
+    "type": "COGNITIVE_LLM",
+    "target": "Initialize Agent Alpha (783M Params)",
+    "status": "IN_PROGRESS",
+    "assignedAt": "2026-10-07T17:57:28.616Z"
   }
 ]

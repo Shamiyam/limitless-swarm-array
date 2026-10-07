@@ -2,7 +2,7 @@ const WebSocket = require('ws');
 const { NodeVM } = require('vm2');
 const crypto = require('crypto');
 
-const HUB_URL = process.env.HUB_URL || 'wss://heavy-rivers-sink.loca.lt';
+const HUB_URL = process.env.HUB_URL || 'wss://neat-pandas-fold.loca.lt';
 
 function connectToHub() {
     console.log(`[SWARM NODE] Booting... Attempting uplink to ${HUB_URL}`);

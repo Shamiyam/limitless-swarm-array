@@ -1,0 +1,4119 @@
+{
+  "totalEntitiesAcquired": 613,
+  "lastUpdate": "2026-10-07T17:59:17.014Z",
+  "intelligenceRecords": [
+    {
+      "id": "REQ-ZXBVXLB2N",
+      "timestamp": "2026-10-07T17:59:17.014Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-8BZAB1B9C",
+      "timestamp": "2026-10-07T17:59:14.001Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-VRN3MRCFE",
+      "timestamp": "2026-10-07T17:59:10.991Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-20WH3YYYR",
+      "timestamp": "2026-10-07T17:59:07.977Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-KX9ZZ6OFG",
+      "timestamp": "2026-10-07T17:59:04.968Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-Q9NXCIW6D",
+      "timestamp": "2026-10-07T17:59:01.959Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-0POY1LRZ1",
+      "timestamp": "2026-10-07T17:58:58.950Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-YA465CSWN",
+      "timestamp": "2026-10-07T17:58:55.944Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-0UAV69IFS",
+      "timestamp": "2026-10-07T17:58:52.932Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-ORG16ENAN",
+      "timestamp": "2026-10-07T17:58:49.926Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-JG5SM57ST",
+      "timestamp": "2026-10-07T17:58:46.911Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-89RIFMSGV",
+      "timestamp": "2026-10-07T17:58:43.902Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-AOOB0C0OU",
+      "timestamp": "2026-10-07T17:58:40.899Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-UAS1OKWTM",
+      "timestamp": "2026-10-07T17:58:37.895Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-C81R2R14A",
+      "timestamp": "2026-10-07T17:58:34.882Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-SFUOTX1M0",
+      "timestamp": "2026-10-07T17:58:31.874Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-FEXOAEQNB",
+      "timestamp": "2026-10-07T17:58:28.870Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-M9WPDSRZB",
+      "timestamp": "2026-10-07T17:58:25.856Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-UVZK0YTKU",
+      "timestamp": "2026-10-07T17:58:22.853Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-T3Q20PXGK",
+      "timestamp": "2026-10-07T17:58:19.852Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-3GWVIU997",
+      "timestamp": "2026-10-07T17:58:16.840Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-X4RKFV0W9",
+      "timestamp": "2026-10-07T17:58:13.833Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-T742L4T7Z",
+      "timestamp": "2026-10-07T17:58:10.824Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-2XK378GZ6",
+      "timestamp": "2026-10-07T17:58:07.811Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-6WR4GI620",
+      "timestamp": "2026-10-07T17:58:04.808Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-LXYUP7GRU",
+      "timestamp": "2026-10-07T17:58:01.794Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-MYW8LOOGO",
+      "timestamp": "2026-10-07T17:57:58.791Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-KEUTTKFEZ",
+      "timestamp": "2026-10-07T17:57:55.787Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-D1CB1TJIN",
+      "timestamp": "2026-10-07T17:57:52.785Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-2YR6DFONJ",
+      "timestamp": "2026-10-07T17:57:49.780Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-MH5WNOCTZ",
+      "timestamp": "2026-10-07T17:57:46.774Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-2VD9EGVBE",
+      "timestamp": "2026-10-07T17:57:43.765Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-AZYTM2PPH",
+      "timestamp": "2026-10-07T17:57:40.760Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-JLS4I63IY",
+      "timestamp": "2026-10-07T17:57:37.755Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-CD5IK4903",
+      "timestamp": "2026-10-07T17:57:34.742Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-U3U1NAYJY",
+      "timestamp": "2026-10-07T17:57:31.727Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-VBTXMN18A",
+      "timestamp": "2026-10-07T17:57:28.718Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-UG4I9LTIY",
+      "timestamp": "2026-10-07T17:57:25.712Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-P6D4PD8AW",
+      "timestamp": "2026-10-07T17:57:22.704Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-VHFL80YGL",
+      "timestamp": "2026-10-07T17:57:19.698Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-6KUZ5H72W",
+      "timestamp": "2026-10-07T17:57:16.686Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-QYT5YQAIJ",
+      "timestamp": "2026-10-07T17:57:13.683Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-HN77SJL6U",
+      "timestamp": "2026-10-07T17:57:10.677Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-ZK54104EJ",
+      "timestamp": "2026-10-07T17:57:07.670Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-4WGRT6VOP",
+      "timestamp": "2026-10-07T17:57:04.663Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-IV9HO8DTF",
+      "timestamp": "2026-10-07T17:57:01.649Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-3AJIGPZT5",
+      "timestamp": "2026-10-07T17:56:58.640Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-LNS19DU1K",
+      "timestamp": "2026-10-07T17:56:55.634Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-GXPRGA64D",
+      "timestamp": "2026-10-07T17:56:52.631Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-EDAEMNJ9V",
+      "timestamp": "2026-10-07T17:56:49.618Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-DIFYHEV98",
+      "timestamp": "2026-10-07T17:56:46.608Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-MXLU1A0OF",
+      "timestamp": "2026-10-07T17:56:43.597Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-C0H6WOTU8",
+      "timestamp": "2026-10-07T17:56:40.589Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-UE584HJ67",
+      "timestamp": "2026-10-07T17:56:37.579Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-4ZSSAXO42",
+      "timestamp": "2026-10-07T17:56:34.573Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-UVQO0SXVL",
+      "timestamp": "2026-10-07T17:56:31.564Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-BMPVVLYYT",
+      "timestamp": "2026-10-07T17:56:28.559Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-MX13RHLYO",
+      "timestamp": "2026-10-07T17:56:25.547Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-RXK1HV2JS",
+      "timestamp": "2026-10-07T17:56:22.538Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-CGCEYKLES",
+      "timestamp": "2026-10-07T17:56:19.535Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-DAAJTSQRI",
+      "timestamp": "2026-10-07T17:56:16.524Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-UWK4O71B7",
+      "timestamp": "2026-10-07T17:56:13.518Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-CRKCZWY3R",
+      "timestamp": "2026-10-07T17:56:10.511Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-J0ZC7I6BV",
+      "timestamp": "2026-10-07T17:56:07.509Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-DZVBL61SD",
+      "timestamp": "2026-10-07T17:56:04.507Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-MCEW8GZA5",
+      "timestamp": "2026-10-07T17:56:01.506Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-S705LF7NT",
+      "timestamp": "2026-10-07T17:55:58.499Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-H9CBI9NU8",
+      "timestamp": "2026-10-07T17:55:55.494Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-YX48IJRU8",
+      "timestamp": "2026-10-07T17:55:52.491Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-GIS97X56H",
+      "timestamp": "2026-10-07T17:55:49.486Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-O857M2NBI",
+      "timestamp": "2026-10-07T17:55:46.475Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-BY6FDFBC2",
+      "timestamp": "2026-10-07T17:55:43.469Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-ZLE2ZL3GG",
+      "timestamp": "2026-10-07T17:55:40.467Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-YDL8OSOPZ",
+      "timestamp": "2026-10-07T17:55:37.451Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-B6BWT26KL",
+      "timestamp": "2026-10-07T17:55:34.446Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-L3GXV6MO0",
+      "timestamp": "2026-10-07T17:55:31.431Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-0M12A6ICD",
+      "timestamp": "2026-10-07T17:55:28.420Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-1ZODMMDNW",
+      "timestamp": "2026-10-07T17:55:25.403Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-UX3UCF9KC",
+      "timestamp": "2026-10-07T17:55:22.399Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-P55J55501",
+      "timestamp": "2026-10-07T17:55:19.390Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-IE2F4DJSJ",
+      "timestamp": "2026-10-07T17:55:16.375Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-IFNPIHRL4",
+      "timestamp": "2026-10-07T17:55:13.370Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-429FIQL8A",
+      "timestamp": "2026-10-07T17:55:10.361Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-9QEKS6J66",
+      "timestamp": "2026-10-07T17:55:07.356Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-76B1IIO3Z",
+      "timestamp": "2026-10-07T17:55:04.352Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-ZNFBSNHLT",
+      "timestamp": "2026-10-07T17:55:01.346Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-2A9GVE833",
+      "timestamp": "2026-10-07T17:54:58.338Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-GFI0W3KK6",
+      "timestamp": "2026-10-07T17:54:55.336Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-WGC172GM9",
+      "timestamp": "2026-10-07T17:54:52.331Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-QFBL3BF5Q",
+      "timestamp": "2026-10-07T17:54:49.323Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-2N9OKHHRU",
+      "timestamp": "2026-10-07T17:54:46.314Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-KCS23E5YY",
+      "timestamp": "2026-10-07T17:54:43.306Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-7F9IXOI3N",
+      "timestamp": "2026-10-07T17:54:40.298Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-3YZ30IL3Y",
+      "timestamp": "2026-10-07T17:54:37.284Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-RDNWNGVW7",
+      "timestamp": "2026-10-07T17:54:34.268Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-T19HMT6QD",
+      "timestamp": "2026-10-07T17:54:31.266Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-3A2VB5E83",
+      "timestamp": "2026-10-07T17:54:28.258Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-ZXWHSXMLL",
+      "timestamp": "2026-10-07T17:54:25.256Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-M7O9MFQFX",
+      "timestamp": "2026-10-07T17:54:22.247Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-52YOOB1WX",
+      "timestamp": "2026-10-07T17:54:19.241Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-X73U2DG23",
+      "timestamp": "2026-10-07T17:54:16.226Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-UYTOH26WF",
+      "timestamp": "2026-10-07T17:54:13.211Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-YCDVM60U7",
+      "timestamp": "2026-10-07T17:54:10.206Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-P69Y4WDMZ",
+      "timestamp": "2026-10-07T17:54:07.201Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-8UHQM42LI",
+      "timestamp": "2026-10-07T17:54:04.194Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-J32ORFT8P",
+      "timestamp": "2026-10-07T17:54:01.191Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-UZPENT3BQ",
+      "timestamp": "2026-10-07T17:53:58.187Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-0MJDJ8NQN",
+      "timestamp": "2026-10-07T17:53:55.181Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-U5XI3ZT9B",
+      "timestamp": "2026-10-07T17:53:52.181Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-W900FEW2A",
+      "timestamp": "2026-10-07T17:53:49.177Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-7YJZU0IC7",
+      "timestamp": "2026-10-07T17:53:46.172Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-FDS07583Y",
+      "timestamp": "2026-10-07T17:53:43.166Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-LLGDTIJES",
+      "timestamp": "2026-10-07T17:53:40.161Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-ZR9P1RCHE",
+      "timestamp": "2026-10-07T17:53:37.153Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-1R036PAJ2",
+      "timestamp": "2026-10-07T17:53:34.142Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-13Q2ZR3MU",
+      "timestamp": "2026-10-07T17:53:31.137Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-WRYGBS2LX",
+      "timestamp": "2026-10-07T17:53:28.129Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-CN1TPICE6",
+      "timestamp": "2026-10-07T17:53:25.120Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-YYFOL1DIB",
+      "timestamp": "2026-10-07T17:53:22.116Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-VF2HD8BBK",
+      "timestamp": "2026-10-07T17:53:19.111Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-MTVOPB6FF",
+      "timestamp": "2026-10-07T17:53:16.112Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-96GZ8XK2M",
+      "timestamp": "2026-10-07T17:53:13.106Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-F4QQG6ANY",
+      "timestamp": "2026-10-07T17:53:10.101Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-TSV4T3IE8",
+      "timestamp": "2026-10-07T17:53:07.092Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-X5H1PP4Z0",
+      "timestamp": "2026-10-07T17:53:04.079Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-HWSWBPONQ",
+      "timestamp": "2026-10-07T17:53:01.079Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-1JZHIEZGE",
+      "timestamp": "2026-10-07T17:52:58.075Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-6V5VBTQ11",
+      "timestamp": "2026-10-07T17:52:55.068Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-59W0SSTDJ",
+      "timestamp": "2026-10-07T17:52:52.065Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-4DX2JZZK7",
+      "timestamp": "2026-10-07T17:52:49.055Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-GKJF57P48",
+      "timestamp": "2026-10-07T17:52:46.048Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-3ZW76JP1G",
+      "timestamp": "2026-10-07T17:52:43.045Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 13
+    },
+    {
+      "id": "REQ-7R8TCCV4Y",
+      "timestamp": "2026-10-07T17:52:40.029Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-3J8F330HT",
+      "timestamp": "2026-10-07T17:52:37.026Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-FNS1X8T6E",
+      "timestamp": "2026-10-07T17:52:34.019Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-2DHZ630XM",
+      "timestamp": "2026-10-07T17:52:31.013Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-KI9N8BOK3",
+      "timestamp": "2026-10-07T17:52:28.006Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-KA8HF4DXJ",
+      "timestamp": "2026-10-07T17:52:24.998Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-EF77DRNQO",
+      "timestamp": "2026-10-07T17:52:21.994Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-57WR2W44U",
+      "timestamp": "2026-10-07T17:52:18.991Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-DX3O49KD7",
+      "timestamp": "2026-10-07T17:52:15.977Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-BDM4HZS5G",
+      "timestamp": "2026-10-07T17:52:12.970Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-YOJXKSMF5",
+      "timestamp": "2026-10-07T17:52:09.968Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-T08E94OLW",
+      "timestamp": "2026-10-07T17:52:06.954Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-FY7MAMIGR",
+      "timestamp": "2026-10-07T17:52:03.940Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-CS4FN9CJP",
+      "timestamp": "2026-10-07T17:52:00.927Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-ILRI7N735",
+      "timestamp": "2026-10-07T17:51:57.924Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-3S3SW7JXJ",
+      "timestamp": "2026-10-07T17:51:54.919Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-QIXDTSVOM",
+      "timestamp": "2026-10-07T17:51:51.915Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-OGK0FVJBA",
+      "timestamp": "2026-10-07T17:51:48.901Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-L52G4IG3F",
+      "timestamp": "2026-10-07T17:51:45.898Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-GKVKAL4AF",
+      "timestamp": "2026-10-07T17:51:42.886Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-YU52RS8PU",
+      "timestamp": "2026-10-07T17:51:39.883Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-8QDN998OT",
+      "timestamp": "2026-10-07T17:51:36.880Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-DV7X15LTA",
+      "timestamp": "2026-10-07T17:51:33.872Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-JAC3YGLUU",
+      "timestamp": "2026-10-07T17:51:30.858Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-7XV1ST5KU",
+      "timestamp": "2026-10-07T17:51:27.853Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-14F9T9ZSF",
+      "timestamp": "2026-10-07T17:51:24.841Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-KQ3G5LGQU",
+      "timestamp": "2026-10-07T17:51:21.839Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-LJWDNH8CF",
+      "timestamp": "2026-10-07T17:51:18.836Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-S0VKV51C2",
+      "timestamp": "2026-10-07T17:51:15.828Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-HT61V7Q0M",
+      "timestamp": "2026-10-07T17:51:12.826Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-83I77IHXK",
+      "timestamp": "2026-10-07T17:51:09.813Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-1IJ51TCMZ",
+      "timestamp": "2026-10-07T17:51:06.802Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-OBVUEECFE",
+      "timestamp": "2026-10-07T17:51:03.790Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-RF8D3EHOH",
+      "timestamp": "2026-10-07T17:51:00.786Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-EI2PXN57S",
+      "timestamp": "2026-10-07T17:50:57.776Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-RHA7TY2SS",
+      "timestamp": "2026-10-07T17:50:54.776Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-DDDXZBU6E",
+      "timestamp": "2026-10-07T17:50:51.767Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-5TDZ0CQNG",
+      "timestamp": "2026-10-07T17:50:48.763Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-PNEZ57UG0",
+      "timestamp": "2026-10-07T17:50:45.760Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-880P0UHBR",
+      "timestamp": "2026-10-07T17:50:42.755Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-OZFBPJ3DX",
+      "timestamp": "2026-10-07T17:50:39.750Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-6XWIR2POZ",
+      "timestamp": "2026-10-07T17:50:36.748Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-R4FI28HFQ",
+      "timestamp": "2026-10-07T17:50:33.736Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-S6AR8G7ZZ",
+      "timestamp": "2026-10-07T17:50:30.721Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-BKSLBDNUU",
+      "timestamp": "2026-10-07T17:50:27.715Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-Z6444HT95",
+      "timestamp": "2026-10-07T17:50:24.710Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-BWWYOEBGF",
+      "timestamp": "2026-10-07T17:50:21.705Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-FT7VLN2B6",
+      "timestamp": "2026-10-07T17:50:18.700Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-9IARZ54OS",
+      "timestamp": "2026-10-07T17:50:15.694Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-4V2ZFZX8J",
+      "timestamp": "2026-10-07T17:50:12.683Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-9ESDCUWP1",
+      "timestamp": "2026-10-07T17:50:09.672Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-LLS6H2I80",
+      "timestamp": "2026-10-07T17:50:06.665Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-QI4GY1ASN",
+      "timestamp": "2026-10-07T17:50:03.658Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-IR494Q6N3",
+      "timestamp": "2026-10-07T17:50:00.650Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-9L2MJUFK9",
+      "timestamp": "2026-10-07T17:49:57.648Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-QHV61X45Z",
+      "timestamp": "2026-10-07T17:49:54.643Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-2H842MKBF",
+      "timestamp": "2026-10-07T17:49:51.637Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-5QS87B1KE",
+      "timestamp": "2026-10-07T17:49:48.631Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-FRVCYG4HE",
+      "timestamp": "2026-10-07T17:49:45.616Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-7SB6WWO9T",
+      "timestamp": "2026-10-07T17:49:42.615Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-5YBYUG10Z",
+      "timestamp": "2026-10-07T17:49:39.602Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-O7XURSN4J",
+      "timestamp": "2026-10-07T17:49:36.592Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-EV7YAS3J7",
+      "timestamp": "2026-10-07T17:49:33.584Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-U9XBS4L80",
+      "timestamp": "2026-10-07T17:49:30.581Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-TWIH08WJI",
+      "timestamp": "2026-10-07T17:49:27.570Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-BTHG3DD1G",
+      "timestamp": "2026-10-07T17:49:24.563Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-1Z4A0UN0Y",
+      "timestamp": "2026-10-07T17:49:21.553Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-XVV063UKP",
+      "timestamp": "2026-10-07T17:49:18.552Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-1FYFQK5J3",
+      "timestamp": "2026-10-07T17:49:15.549Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-URI7GR5CQ",
+      "timestamp": "2026-10-07T17:49:12.538Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-9GBHLWTKO",
+      "timestamp": "2026-10-07T17:49:09.530Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-FJF94K5VF",
+      "timestamp": "2026-10-07T17:49:06.523Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-BOOKTN3VM",
+      "timestamp": "2026-10-07T17:49:03.515Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-GBJB0RKC2",
+      "timestamp": "2026-10-07T17:49:00.504Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-KAY4PGZHB",
+      "timestamp": "2026-10-07T17:48:57.491Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-7ZE91XOIQ",
+      "timestamp": "2026-10-07T17:48:54.477Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-QNRYTLUA3",
+      "timestamp": "2026-10-07T17:48:51.464Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-GIS4DNT8Q",
+      "timestamp": "2026-10-07T17:48:48.463Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-I5XALC779",
+      "timestamp": "2026-10-07T17:48:45.453Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-MQFJIKW2G",
+      "timestamp": "2026-10-07T17:48:42.440Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-IQHN6A2OE",
+      "timestamp": "2026-10-07T17:48:39.428Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-JW6EHFG7U",
+      "timestamp": "2026-10-07T17:48:36.413Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-8L4VCAYUR",
+      "timestamp": "2026-10-07T17:48:33.411Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-6LRVH7CPX",
+      "timestamp": "2026-10-07T17:48:30.408Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-RK6VWDQZ7",
+      "timestamp": "2026-10-07T17:48:27.399Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-UYRTYC82S",
+      "timestamp": "2026-10-07T17:48:24.398Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-GRCPK9TB2",
+      "timestamp": "2026-10-07T17:48:21.393Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-91UENZ8LO",
+      "timestamp": "2026-10-07T17:48:18.381Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-OTXJ4YYWA",
+      "timestamp": "2026-10-07T17:48:15.370Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-USVWYUEB4",
+      "timestamp": "2026-10-07T17:48:12.366Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-JYAR9D05C",
+      "timestamp": "2026-10-07T17:48:09.362Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-SAP5XXYMV",
+      "timestamp": "2026-10-07T17:48:06.354Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-L6HKG7TOT",
+      "timestamp": "2026-10-07T17:48:03.353Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-HII7AJU93",
+      "timestamp": "2026-10-07T17:48:00.339Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-PGTYNSEHB",
+      "timestamp": "2026-10-07T17:47:57.333Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-OW78RA5U6",
+      "timestamp": "2026-10-07T17:47:54.322Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-A32ALY77O",
+      "timestamp": "2026-10-07T17:47:51.318Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-PEYASZFPL",
+      "timestamp": "2026-10-07T17:47:48.303Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-WS9TMZCF5",
+      "timestamp": "2026-10-07T17:47:45.303Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-MOGHU4BFX",
+      "timestamp": "2026-10-07T17:47:42.290Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-8HKU027S0",
+      "timestamp": "2026-10-07T17:47:39.285Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-12M9VML6C",
+      "timestamp": "2026-10-07T17:47:36.281Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-2IOG3X1ZS",
+      "timestamp": "2026-10-07T17:47:33.271Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-TPUGH8BWO",
+      "timestamp": "2026-10-07T17:47:30.269Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-GJ8I1CGIG",
+      "timestamp": "2026-10-07T17:47:27.254Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-RM8AF9RQ2",
+      "timestamp": "2026-10-07T17:47:24.245Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-4VA4KLCRL",
+      "timestamp": "2026-10-07T17:47:21.240Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-ZDEZLY7Q7",
+      "timestamp": "2026-10-07T17:47:18.233Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-ZKTC4T1L6",
+      "timestamp": "2026-10-07T17:47:15.225Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-5T6Z1A68S",
+      "timestamp": "2026-10-07T17:47:12.221Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-M2WQG2QUQ",
+      "timestamp": "2026-10-07T17:47:09.213Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-F5QKYVE2I",
+      "timestamp": "2026-10-07T17:47:06.205Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-KE58CST47",
+      "timestamp": "2026-10-07T17:47:03.200Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-GTYSNSOH4",
+      "timestamp": "2026-10-07T17:47:00.197Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-K09WT2WCZ",
+      "timestamp": "2026-10-07T17:46:57.185Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-GGCJNFT19",
+      "timestamp": "2026-10-07T17:46:54.182Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-BZV7M9FYP",
+      "timestamp": "2026-10-07T17:46:51.172Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-NR71ILW6Y",
+      "timestamp": "2026-10-07T17:46:48.168Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-O284DB6JI",
+      "timestamp": "2026-10-07T17:46:45.158Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-J1W0MP2WP",
+      "timestamp": "2026-10-07T17:46:42.157Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-XWIZ9C1F2",
+      "timestamp": "2026-10-07T17:46:39.153Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-BEMXVOQBY",
+      "timestamp": "2026-10-07T17:46:36.147Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-91JBCGYDQ",
+      "timestamp": "2026-10-07T17:46:33.143Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-3OWYYFWYU",
+      "timestamp": "2026-10-07T17:46:30.136Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-M6BE0Z1EY",
+      "timestamp": "2026-10-07T17:46:27.121Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-3E410GMH0",
+      "timestamp": "2026-10-07T17:46:24.111Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-Q13ZW52W4",
+      "timestamp": "2026-10-07T17:46:21.111Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-BXK4LWL8B",
+      "timestamp": "2026-10-07T17:46:18.096Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-UCBIT81AY",
+      "timestamp": "2026-10-07T17:46:15.080Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-3MSJT9ZQT",
+      "timestamp": "2026-10-07T17:46:12.069Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-A16VASLCN",
+      "timestamp": "2026-10-07T17:46:09.064Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-ZNZ3VCR64",
+      "timestamp": "2026-10-07T17:46:06.054Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-0P49UPB0K",
+      "timestamp": "2026-10-07T17:46:03.046Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-KYKDJC0LP",
+      "timestamp": "2026-10-07T17:46:00.039Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-VK0GUH69Y",
+      "timestamp": "2026-10-07T17:45:57.037Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-QLAN7C5BZ",
+      "timestamp": "2026-10-07T17:45:54.036Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-6F8AQZUCQ",
+      "timestamp": "2026-10-07T17:45:51.032Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-WWOW6A21J",
+      "timestamp": "2026-10-07T17:45:48.032Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-QMOAAIKL0",
+      "timestamp": "2026-10-07T17:45:45.021Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-ACEZHWYVF",
+      "timestamp": "2026-10-07T17:45:42.017Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-6UNAGZ45L",
+      "timestamp": "2026-10-07T17:45:39.013Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-PXG5N9Y93",
+      "timestamp": "2026-10-07T17:45:36.002Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-AHWSQUFN4",
+      "timestamp": "2026-10-07T17:45:32.998Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-OQ1LDZUP9",
+      "timestamp": "2026-10-07T17:45:29.983Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-KLI0YGLHC",
+      "timestamp": "2026-10-07T17:45:26.980Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-PI24ZHKRO",
+      "timestamp": "2026-10-07T17:45:23.969Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-6CO183IXQ",
+      "timestamp": "2026-10-07T17:45:20.968Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-HQK2PX3NR",
+      "timestamp": "2026-10-07T17:45:17.956Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-LYRD32DBI",
+      "timestamp": "2026-10-07T17:45:14.950Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-A6FTR8OT3",
+      "timestamp": "2026-10-07T17:45:11.946Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-ZQG964MA2",
+      "timestamp": "2026-10-07T17:45:08.933Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-THQG3E3WD",
+      "timestamp": "2026-10-07T17:45:05.924Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-RV6O5UZ2Y",
+      "timestamp": "2026-10-07T17:45:02.920Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-24N9XB70N",
+      "timestamp": "2026-10-07T17:44:59.912Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-UYIFTCVVA",
+      "timestamp": "2026-10-07T17:44:56.899Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-796MRH5VZ",
+      "timestamp": "2026-10-07T17:44:53.885Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-XZBNYOL7T",
+      "timestamp": "2026-10-07T17:44:50.880Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-8G6LXG5HD",
+      "timestamp": "2026-10-07T17:44:47.866Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-Z65S1BI21",
+      "timestamp": "2026-10-07T17:44:44.852Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-SGF8IEMIF",
+      "timestamp": "2026-10-07T17:44:41.846Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-YIQZHTWT1",
+      "timestamp": "2026-10-07T17:44:38.839Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-P0RIT8I4H",
+      "timestamp": "2026-10-07T17:44:35.836Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-ZULYNKADG",
+      "timestamp": "2026-10-07T17:44:32.819Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-GON5B74ZQ",
+      "timestamp": "2026-10-07T17:44:29.804Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-AOEBZSYHL",
+      "timestamp": "2026-10-07T17:44:26.792Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-A6RCZVVNJ",
+      "timestamp": "2026-10-07T17:44:23.781Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-C6RHXABQ6",
+      "timestamp": "2026-10-07T17:44:20.766Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-267W3W2JI",
+      "timestamp": "2026-10-07T17:44:17.759Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-DIUAPJLJ6",
+      "timestamp": "2026-10-07T17:44:14.752Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-ZR0JYTPPL",
+      "timestamp": "2026-10-07T17:44:11.751Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-2M51KIPSU",
+      "timestamp": "2026-10-07T17:44:08.740Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-X8Q5N87U5",
+      "timestamp": "2026-10-07T17:44:05.737Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-8H19MRIIM",
+      "timestamp": "2026-10-07T17:44:02.724Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-NM7DD7Q10",
+      "timestamp": "2026-10-07T17:43:59.712Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-CBCE3M82K",
+      "timestamp": "2026-10-07T17:43:56.701Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-LI2OASDPE",
+      "timestamp": "2026-10-07T17:43:53.699Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-U5WXX0WVY",
+      "timestamp": "2026-10-07T17:43:50.692Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-2MUFZKORS",
+      "timestamp": "2026-10-07T17:43:47.691Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-NO2O7E33O",
+      "timestamp": "2026-10-07T17:43:44.679Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-WF1WWEXXU",
+      "timestamp": "2026-10-07T17:43:41.674Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-J83JFJ0CX",
+      "timestamp": "2026-10-07T17:43:38.668Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-4MINODLB5",
+      "timestamp": "2026-10-07T17:43:35.662Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-YX7NQJ66X",
+      "timestamp": "2026-10-07T17:43:32.654Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-CUKYRLRRE",
+      "timestamp": "2026-10-07T17:43:29.639Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-9J3ZZBZEE",
+      "timestamp": "2026-10-07T17:43:26.634Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-HJRPTLLVA",
+      "timestamp": "2026-10-07T17:43:23.626Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-5GXEE26SJ",
+      "timestamp": "2026-10-07T17:43:20.624Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-60CSJCE4V",
+      "timestamp": "2026-10-07T17:43:17.617Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-WCQNWKI9J",
+      "timestamp": "2026-10-07T17:43:14.609Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-MGT5LQCIC",
+      "timestamp": "2026-10-07T17:43:11.609Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-CU73ZGLTL",
+      "timestamp": "2026-10-07T17:43:08.604Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-VHC1P9WUS",
+      "timestamp": "2026-10-07T17:43:05.596Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-E76CAFVZ8",
+      "timestamp": "2026-10-07T17:43:02.592Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-C3GMI8I2J",
+      "timestamp": "2026-10-07T17:42:59.586Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-KJHPRDXP6",
+      "timestamp": "2026-10-07T17:42:56.581Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-CYHDKKA2L",
+      "timestamp": "2026-10-07T17:42:53.580Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-ROVO8ONDZ",
+      "timestamp": "2026-10-07T17:42:50.569Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-1AW46UPNY",
+      "timestamp": "2026-10-07T17:42:47.560Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-NUHNZS7UI",
+      "timestamp": "2026-10-07T17:42:44.557Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-CL6QO6WRE",
+      "timestamp": "2026-10-07T17:42:41.548Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-GZ3FSWRTO",
+      "timestamp": "2026-10-07T17:42:38.546Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-M8B1611BU",
+      "timestamp": "2026-10-07T17:42:35.545Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-0XLOTMXNV",
+      "timestamp": "2026-10-07T17:42:32.529Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-9LSD2V4GN",
+      "timestamp": "2026-10-07T17:42:29.520Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-LDMQBU0WK",
+      "timestamp": "2026-10-07T17:42:26.508Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-W3M9UJWSP",
+      "timestamp": "2026-10-07T17:42:23.503Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-LS3KWGY65",
+      "timestamp": "2026-10-07T17:42:20.498Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-BJDNROX8J",
+      "timestamp": "2026-10-07T17:42:17.488Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-RHY2DP814",
+      "timestamp": "2026-10-07T17:42:14.481Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-VE7S8TDUG",
+      "timestamp": "2026-10-07T17:42:11.477Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-DFMEMODPB",
+      "timestamp": "2026-10-07T17:42:08.472Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-OW8R3VQ0L",
+      "timestamp": "2026-10-07T17:42:05.466Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-HC1E9W5TT",
+      "timestamp": "2026-10-07T17:42:02.462Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-9O1GTGR1H",
+      "timestamp": "2026-10-07T17:41:59.455Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-VB86AK0VH",
+      "timestamp": "2026-10-07T17:41:56.454Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-63BJWSZOC",
+      "timestamp": "2026-10-07T17:41:53.453Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-K6TQKHHKE",
+      "timestamp": "2026-10-07T17:41:50.450Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-2YU1C1DMA",
+      "timestamp": "2026-10-07T17:41:47.441Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-0XO7CN3Q8",
+      "timestamp": "2026-10-07T17:41:44.439Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-G3IY71YYG",
+      "timestamp": "2026-10-07T17:41:41.425Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-RJCQUOD4L",
+      "timestamp": "2026-10-07T17:41:38.422Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-S03CVBJ9Y",
+      "timestamp": "2026-10-07T17:41:35.415Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-BBR2SW1KI",
+      "timestamp": "2026-10-07T17:41:32.402Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-544DLBU8Z",
+      "timestamp": "2026-10-07T17:41:29.398Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-SGM97XV15",
+      "timestamp": "2026-10-07T17:41:26.385Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-XW4C5KIEN",
+      "timestamp": "2026-10-07T17:41:23.382Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-3O5M1KSLX",
+      "timestamp": "2026-10-07T17:41:20.370Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-EXXXHG05C",
+      "timestamp": "2026-10-07T17:41:17.370Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-4VO5MMFVC",
+      "timestamp": "2026-10-07T17:41:14.363Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-VAPAM7RHT",
+      "timestamp": "2026-10-07T17:41:11.353Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-I5R6U7TA3",
+      "timestamp": "2026-10-07T17:41:08.345Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-T6U07BNME",
+      "timestamp": "2026-10-07T17:41:05.337Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-UX8JYPG2C",
+      "timestamp": "2026-10-07T17:41:02.333Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-ARHMZ9U54",
+      "timestamp": "2026-10-07T17:40:59.321Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-IKF35MTH9",
+      "timestamp": "2026-10-07T17:40:56.307Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-M88BEXNQV",
+      "timestamp": "2026-10-07T17:40:53.295Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-TRHBLDM9B",
+      "timestamp": "2026-10-07T17:40:50.293Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 13
+    },
+    {
+      "id": "REQ-XIGHE0F5Z",
+      "timestamp": "2026-10-07T17:40:47.286Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-EBAQ1VF4N",
+      "timestamp": "2026-10-07T17:40:44.272Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-HNJVU4CED",
+      "timestamp": "2026-10-07T17:40:41.259Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-XWRRVXIH1",
+      "timestamp": "2026-10-07T17:40:38.258Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-0WMVW55ZT",
+      "timestamp": "2026-10-07T17:40:35.257Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-0LLJMQH09",
+      "timestamp": "2026-10-07T17:40:32.245Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-DI6FFK11V",
+      "timestamp": "2026-10-07T17:40:29.233Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-MF1D1KRQO",
+      "timestamp": "2026-10-07T17:40:26.232Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-HVYGBD9CA",
+      "timestamp": "2026-10-07T17:40:23.227Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-5HE40VE5P",
+      "timestamp": "2026-10-07T17:40:20.214Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-1KCBS61WN",
+      "timestamp": "2026-10-07T17:40:17.207Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-IKE37SCCR",
+      "timestamp": "2026-10-07T17:40:14.194Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-O0UYXNPMU",
+      "timestamp": "2026-10-07T17:40:11.191Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-BPMUED4TK",
+      "timestamp": "2026-10-07T17:40:08.185Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-BGRSTH5DP",
+      "timestamp": "2026-10-07T17:40:05.179Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-F6E8Z3MZ7",
+      "timestamp": "2026-10-07T17:40:02.170Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-E4LNOK5WV",
+      "timestamp": "2026-10-07T17:39:59.167Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-XSE4VAWVC",
+      "timestamp": "2026-10-07T17:39:56.154Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-CXDMYI94P",
+      "timestamp": "2026-10-07T17:39:53.152Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-H0J1NWPO1",
+      "timestamp": "2026-10-07T17:39:50.150Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-70CU8R6D2",
+      "timestamp": "2026-10-07T17:39:47.136Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-47YOQ0WUL",
+      "timestamp": "2026-10-07T17:39:44.122Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-HMFRKC2VO",
+      "timestamp": "2026-10-07T17:39:41.113Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-4IPFRGJWN",
+      "timestamp": "2026-10-07T17:39:38.100Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-EH5E6OMWJ",
+      "timestamp": "2026-10-07T17:39:35.086Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-DOXSTN2C8",
+      "timestamp": "2026-10-07T17:39:32.069Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-6O1TR914P",
+      "timestamp": "2026-10-07T17:39:29.058Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-87VZ2NSRI",
+      "timestamp": "2026-10-07T17:39:26.053Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-RIQ3CJI6O",
+      "timestamp": "2026-10-07T17:39:23.049Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-ROK4SSR02",
+      "timestamp": "2026-10-07T17:39:20.040Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-BOCXNHIJ0",
+      "timestamp": "2026-10-07T17:39:17.033Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-U67BBUSUA",
+      "timestamp": "2026-10-07T17:39:14.024Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-375EXW1BC",
+      "timestamp": "2026-10-07T17:39:11.013Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-XASY0BPQQ",
+      "timestamp": "2026-10-07T17:39:08.007Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-6J5RBSEGV",
+      "timestamp": "2026-10-07T17:39:04.997Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-Y9L6ASAGO",
+      "timestamp": "2026-10-07T17:39:01.988Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-6V5D3FG4U",
+      "timestamp": "2026-10-07T17:38:58.987Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-GS0JS1R34",
+      "timestamp": "2026-10-07T17:38:55.977Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-TBJLSSGZ4",
+      "timestamp": "2026-10-07T17:38:52.963Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-YDR51PO81",
+      "timestamp": "2026-10-07T17:38:49.956Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-SZ6OBELTD",
+      "timestamp": "2026-10-07T17:38:46.942Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-7ZZHVXAD3",
+      "timestamp": "2026-10-07T17:38:43.939Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-1NAVI9CI9",
+      "timestamp": "2026-10-07T17:38:40.936Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-M58A5T5W9",
+      "timestamp": "2026-10-07T17:38:37.932Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-JNXXE8G6A",
+      "timestamp": "2026-10-07T17:38:34.929Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-80L4RUXF9",
+      "timestamp": "2026-10-07T17:38:31.912Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-SOH7MR02H",
+      "timestamp": "2026-10-07T17:38:28.911Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-K7RTVEX6P",
+      "timestamp": "2026-10-07T17:38:25.897Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-PUO9VAV53",
+      "timestamp": "2026-10-07T17:38:22.896Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-LLJMVAOOD",
+      "timestamp": "2026-10-07T17:38:19.892Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-GI8327NC5",
+      "timestamp": "2026-10-07T17:38:16.878Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-0BRPGAN3H",
+      "timestamp": "2026-10-07T17:38:13.876Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-7X5DN1U89",
+      "timestamp": "2026-10-07T17:38:10.875Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-SFPUOWD3P",
+      "timestamp": "2026-10-07T17:38:07.860Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-F6LZMPQX5",
+      "timestamp": "2026-10-07T17:38:04.854Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-XMV3KXY4F",
+      "timestamp": "2026-10-07T17:38:01.850Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-6JCP4YIC3",
+      "timestamp": "2026-10-07T17:37:58.844Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-TSOHFRABH",
+      "timestamp": "2026-10-07T17:37:55.839Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-50O5TPB9Z",
+      "timestamp": "2026-10-07T17:37:52.836Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-ET4VUTAL1",
+      "timestamp": "2026-10-07T17:37:49.834Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-2P2H16F5D",
+      "timestamp": "2026-10-07T17:37:46.831Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-WGMSLZ8HO",
+      "timestamp": "2026-10-07T17:37:43.831Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-3BPAK40NY",
+      "timestamp": "2026-10-07T17:37:40.824Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 13
+    },
+    {
+      "id": "REQ-DYZAF2Q15",
+      "timestamp": "2026-10-07T17:37:37.818Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-YBFAA95YE",
+      "timestamp": "2026-10-07T17:37:34.815Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-5CEPK0UQV",
+      "timestamp": "2026-10-07T17:37:31.812Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-9X1CBBDOB",
+      "timestamp": "2026-10-07T17:37:28.806Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-M3Q9729ZJ",
+      "timestamp": "2026-10-07T17:37:25.805Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-TJKMFIFDG",
+      "timestamp": "2026-10-07T17:37:22.801Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-957EXI0RZ",
+      "timestamp": "2026-10-07T17:37:19.792Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-C8T9MGX09",
+      "timestamp": "2026-10-07T17:37:16.782Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-L2KC394H9",
+      "timestamp": "2026-10-07T17:37:13.767Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-GD09J365Q",
+      "timestamp": "2026-10-07T17:37:10.755Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-50VEZXVZ7",
+      "timestamp": "2026-10-07T17:37:07.748Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-D5H3HMHP4",
+      "timestamp": "2026-10-07T17:37:04.749Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-SCHSX93C1",
+      "timestamp": "2026-10-07T17:37:01.743Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-9DXJME57P",
+      "timestamp": "2026-10-07T17:36:58.738Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-BNV3U5ILM",
+      "timestamp": "2026-10-07T17:36:55.724Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-I3MQEX6PK",
+      "timestamp": "2026-10-07T17:36:52.720Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-MTFA78CC1",
+      "timestamp": "2026-10-07T17:36:49.717Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-25FUZD0GB",
+      "timestamp": "2026-10-07T17:36:46.704Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-9WN0QBPN8",
+      "timestamp": "2026-10-07T17:36:43.701Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-5U597LV2C",
+      "timestamp": "2026-10-07T17:36:40.696Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-O3TUHX6U7",
+      "timestamp": "2026-10-07T17:36:37.690Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-QUDQZEAAS",
+      "timestamp": "2026-10-07T17:36:34.676Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-A5ZOQFSXK",
+      "timestamp": "2026-10-07T17:36:31.662Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-HB1IGQ5DK",
+      "timestamp": "2026-10-07T17:36:28.658Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-XUHI1HPZ7",
+      "timestamp": "2026-10-07T17:36:25.647Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-ZK9AABOQ9",
+      "timestamp": "2026-10-07T17:36:22.641Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-HPGJWASH6",
+      "timestamp": "2026-10-07T17:36:19.638Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-MZOND0GXY",
+      "timestamp": "2026-10-07T17:36:16.630Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-N7IQEKUEQ",
+      "timestamp": "2026-10-07T17:36:13.624Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-PHXQALA97",
+      "timestamp": "2026-10-07T17:36:10.621Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-WM4S0AVNR",
+      "timestamp": "2026-10-07T17:36:07.609Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-EVN5VDGJM",
+      "timestamp": "2026-10-07T17:36:04.602Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-0AEHS614P",
+      "timestamp": "2026-10-07T17:36:01.594Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-1YI1LTKQE",
+      "timestamp": "2026-10-07T17:35:58.587Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-XLGC9AF85",
+      "timestamp": "2026-10-07T17:35:55.578Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-RQBYJLZDM",
+      "timestamp": "2026-10-07T17:35:52.574Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-UJO88SXRD",
+      "timestamp": "2026-10-07T17:35:49.562Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-4SJ1P1M04",
+      "timestamp": "2026-10-07T17:35:46.560Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-7SACOZJ6P",
+      "timestamp": "2026-10-07T17:35:43.553Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-ZSVAP6B0A",
+      "timestamp": "2026-10-07T17:35:40.550Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-S7FUG3PWU",
+      "timestamp": "2026-10-07T17:35:37.546Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-RJABGRZRY",
+      "timestamp": "2026-10-07T17:35:34.541Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-3PR7PBA27",
+      "timestamp": "2026-10-07T17:35:31.525Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-3F9LN2TPG",
+      "timestamp": "2026-10-07T17:35:28.518Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-EKC1X3XJ9",
+      "timestamp": "2026-10-07T17:35:25.512Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-0P979TRDH",
+      "timestamp": "2026-10-07T17:35:22.502Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-SI9ZA3X79",
+      "timestamp": "2026-10-07T17:35:19.496Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-8CLJON2BF",
+      "timestamp": "2026-10-07T17:35:16.483Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-8NCDBJGFA",
+      "timestamp": "2026-10-07T17:35:13.478Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-FU57213BE",
+      "timestamp": "2026-10-07T17:35:10.477Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-H7DZ12JMK",
+      "timestamp": "2026-10-07T17:35:07.462Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-NOPJFASA9",
+      "timestamp": "2026-10-07T17:35:04.452Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-RSW5IZKNF",
+      "timestamp": "2026-10-07T17:35:01.446Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-IAVV8PABX",
+      "timestamp": "2026-10-07T17:34:58.443Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-XHJ4OJ93F",
+      "timestamp": "2026-10-07T17:34:55.439Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-J1TO98SNE",
+      "timestamp": "2026-10-07T17:34:52.425Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-P6IYV6O0X",
+      "timestamp": "2026-10-07T17:34:49.418Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-2MBVACQ9C",
+      "timestamp": "2026-10-07T17:34:46.410Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-6V22506CD",
+      "timestamp": "2026-10-07T17:34:43.401Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Neural Synthesis",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-S162WLD3T",
+      "timestamp": "2026-10-07T17:34:40.394Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-0T1JNPXZV",
+      "timestamp": "2026-10-07T17:34:37.385Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-PKCOT48FY",
+      "timestamp": "2026-10-07T17:34:34.379Z",
+      "sourceNode": "GH-RUNNER-AP-SOUTH",
+      "entity": "Quantum Cryptography",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-YPFGUH5BN",
+      "timestamp": "2026-10-07T17:34:31.368Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 14
+    },
+    {
+      "id": "REQ-OPFKSEK66",
+      "timestamp": "2026-10-07T17:34:28.365Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "Zero-Day Heuristics",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-2RARHVKM3",
+      "timestamp": "2026-10-07T17:34:25.359Z",
+      "sourceNode": "GH-RUNNER-EU-WEST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-DWEC1ZJHB",
+      "timestamp": "2026-10-07T17:34:22.347Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Distributed Consensus",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-NKRM6QPV2",
+      "timestamp": "2026-10-07T17:34:19.341Z",
+      "sourceNode": "CODESPACE-ALPHA",
+      "entity": "Darknet Topology",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    },
+    {
+      "id": "REQ-3AMB3RZOP",
+      "timestamp": "2026-10-07T17:34:16.334Z",
+      "sourceNode": "GH-RUNNER-US-EAST",
+      "entity": "AI Alignment",
+      "classification": "TOP_SECRET",
+      "dataSize": 15
+    }
+  ],
+  "intel": [
+    {
+      "timestamp": "2026-10-07T17:45:56.417Z",
+      "result": {
+        "target": "Calculate sum 1 to 500M",
+        "result": 49999995000000
+      }
+    },
+    {
+      "timestamp": "2026-10-07T17:45:56.882Z",
+      "result": {
+        "target": "Fetch GitHub API Rate Limit Info",
+        "data": 566
+      }
+    },
+    {
+      "timestamp": "2026-10-07T17:50:53.429Z",
+      "result": {
+        "target": "Evolve Neural Weights (Gen 50)",
+        "status": "TRAINING_COMPLETE",
+        "bestFitness": 7.058848259094703,
+        "optimalWeights": [
+          "0.660",
+          "-0.920",
+          "0.583",
+          "-0.763",
+          "0.319",
+          "-0.826",
+          "0.848",
+          "-0.655",
+          "0.685",
+          "-0.800"
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-10-07T17:55:23.652Z",
+      "result": {
+        "target": "Initialize Agent Alpha (783M Params)",
+        "result": 49999995000000
+      }
+    },
+    {
+      "timestamp": "2026-10-07T17:57:28.632Z",
+      "result": {
+        "target": "Calculate sum 1 to 50M",
+        "result": 49999995000000
+      }
+    },
+    {
+      "timestamp": "2026-10-07T17:57:28.645Z",
+      "result": {
+        "target": "Calculate sum 1 to 20M",
+        "result": 49999995000000
+      }
+    },
+    {
+      "timestamp": "2026-10-07T17:57:28.660Z",
+      "result": {
+        "target": "Calculate sum 1 to 500M",
+        "result": 49999995000000
+      }
+    },
+    {
+      "timestamp": "2026-10-07T17:57:28.832Z",
+      "result": {
+        "target": "Evolve Neural Weights (Gen 50)",
+        "status": "TRAINING_COMPLETE",
+        "bestFitness": 7.4774330960156625,
+        "optimalWeights": [
+          "0.353",
+          "-0.390",
+          "0.715",
+          "-0.885",
+          "0.971",
+          "-0.958",
+          "0.903",
+          "-0.922",
+          "0.739",
+          "-0.641"
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-10-07T17:57:28.843Z",
+      "result": {
+        "target": "Initialize Agent Alpha (783M Params)",
+        "status": "ERROR",
+        "error": "Dynamic Import not supported"
+      }
+    },
+    {
+      "timestamp": "2026-10-07T17:57:29.271Z",
+      "result": {
+        "target": "Fetch GitHub API Rate Limit Info",
+        "data": 566
+      }
+    },
+    {
+      "timestamp": "2026-10-07T17:57:29.273Z",
+      "result": {
+        "target": "Fetch HackerNews Frontpage",
+        "data": 566
+      }
+    },
+    {
+      "timestamp": "2026-10-07T17:57:29.275Z",
+      "result": {
+        "target": "Fetch Google HTTP Status",
+        "data": 566
+      }
+    }
+  ]
+} 
